@@ -1,0 +1,2 @@
+### `firmware/`
+Contains Marlin configuration files, flashing instructions, and notes about tuning stepper drivers, PID tuning, and EEPROM storage.
